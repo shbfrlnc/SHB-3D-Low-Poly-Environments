@@ -1,12 +1,5 @@
 # 3D-Low-Poly-Environments - Model 3D Lingkungan Low Poly dalam Format Blender
 
-## Link-Link Penting
-
-- SOFTWARE GRATIS: https://shbfrlnc.github.io/
-- BLOG: https://shbfrlnc.github.io/tags/blog/
-- PENGUMUMAN: https://shbfrlnc.github.io/tags/pengumuman/
-- DUKUNG: https://shbfrlnc.github.io/dukung.html
-
 ## Download
 
 Untuk mendownloadnya, kunjungi halaman Releases.
