@@ -1,4 +1,4 @@
-# 3D-Low-Poly-Environments - Model 3D Lingkungan Low Poly dalam Format Blender
+# SHB-3D-Low-Poly-Environments - Model 3D Lingkungan Low Poly dalam Format Blender
 
 ## Download
 
@@ -6,7 +6,7 @@ Untuk mendownloadnya, kunjungi halaman Releases.
 
 ## Software Apakah Ini?
 
-3D-Low-Poly-Environments adalah model 3D lingkungan low poly dalam format Blender.
+SHB-3D-Low-Poly-Environments adalah model 3D lingkungan low poly dalam format Blender.
 
 ## Screenshot
 
